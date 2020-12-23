@@ -5,3 +5,6 @@ Veg Stew
 Idli
 Beans 
 Pizza
+Stew
+Milk
+Oats
