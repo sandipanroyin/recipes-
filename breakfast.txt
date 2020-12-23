@@ -3,4 +3,5 @@ Breakfast Menu
 Muri
 Veg Stew
 Idli
-
+Beans 
+Pizza
